@@ -1,7 +1,7 @@
 # Awesome TouchBar applications
 Awesome TouchBar applications & tools for macOS users. Feel free to contribute!
 
-You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcode-8-extensions/).
+You can find the related blogpost [here](https://theswiftdev.com/2017/05/29/touchbar-is-awesome/).
 
 ### Contributing
 
