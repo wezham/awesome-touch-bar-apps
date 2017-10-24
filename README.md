@@ -1,7 +1,6 @@
-# Awesome TouchBar applications
-Awesome TouchBar applications & tools for macOS users. Feel free to contribute!
+# Awesome Touch Bar apps
 
-You can find the related blogpost [here](https://theswiftdev.com/2017/05/29/touchbar-is-awesome/).
+Awesome Touch Bar applications & tools for macOS users. Feel free to contribute!
 
 ### Contributing
 
@@ -78,12 +77,4 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [TouchBarDisabler](https://github.com/HiKay/TouchBarDisabler) - TouchBarDisabler allows users to manually turn off the Touch Bar on 2016 MacBook Pro devices. You will be guided to turn off System Integrity Protection before using the app.
 * [TouchTest](https://github.com/HeadBanging/TouchTest) - NSDocument with TouchBar support
 * [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
-
-
-
-
-
-
-
-
 
