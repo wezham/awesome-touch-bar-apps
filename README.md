@@ -15,7 +15,6 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
 * [TouchBarDinoX](https://github.com/yuhuili-lab/TouchBarDinoX) - Chrome dinosaur game on Touch Bar with Global Leaderboard
 * [TouchBarDinoX-Server](https://github.com/yuhuili-lab/TouchBarDinoX-Server) - Leaderboard Server for TouchBarDinoX
-* [TouchRunner](https://github.com/tib/TouchRunner) - just a macOS TouchBar game template 
 * [zsh iTerm Touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 * [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar
 * [Touchbar Santa](https://github.com/airbyte/touchbar_santa) - Santa Claus is coming to your Touch Bar
