@@ -7,6 +7,7 @@ Awesome Touch Bar applications & tools for macOS users. Feel free to contribute!
 Please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
 ### The list
+* [2Touch](https://two-touch.herokuapp.com/) - Create and customise your own custom buttons for your Touch Bar 
 * [Touch Metronome](https://itunes.apple.com/us/app/touch-metronome/id1268396612?ls=1&mt=12) - Simple metronome app with Touch Bar support for quick tempo change, start/stop.
 * [TouchBar cheatsheet](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 * [macOS UI Kit for Sketch](https://github.com/alexkaessner/macOS-UI-Kit) - A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar)
